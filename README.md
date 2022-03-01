@@ -10,3 +10,5 @@ Being the one-stop club that helps students and other technical clubs with the W
 - To **inspire** students towards robotics.
 - To **introduce** the foundational concepts of robotics.
 - To **initiate** training about the relevant tools.
+
+![Robotics club logo](./Color.png)
